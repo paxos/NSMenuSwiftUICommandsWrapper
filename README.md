@@ -17,7 +17,7 @@ Usage in AppKit:
 ```
 class MyBox: NSBox {
     override func menu(for _: NSEvent) -> NSMenu? {
-        return MWMenuExample.menu.toMenu()
+        return menu.toMenu()
     }
 }
 ```
@@ -25,7 +25,7 @@ class MyBox: NSBox {
 Usage in SwiftUI:
 ```
 .commands {
-    MWMenuExample.menu.toCommands()
+    menu.toCommands()
 }
 ```
 
