@@ -1,9 +1,5 @@
-//
-//  File.swift
-//  
-//
-//  Created by Patrick Dinger on 02.04.2024.
-//
+// MWNenu.swift
+// Made by paxos in Apr 2, 2024
 
 import AppKit
 import Foundation

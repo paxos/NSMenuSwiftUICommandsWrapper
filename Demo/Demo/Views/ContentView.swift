@@ -1,9 +1,5 @@
-//
-//  ContentView.swift
-//  MenuWrapper
-//
-//  Created by Patrick Dinger on 02.04.2024.
-//
+// ContentView.swift
+// Made by paxos in Apr 2, 2024
 
 import SwiftUI
 

@@ -1,9 +1,5 @@
-//
-//  AppKitView.swift
-//  MenuWrapper
-//
-//  Created by Patrick Dinger on 02.04.2024.
-//
+// AppKitView.swift
+// Made by paxos in Apr 2, 2024
 
 import Foundation
 import SwiftUI
